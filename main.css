@@ -1,0 +1,34 @@
+section
+	{ 
+background-color:azure;
+border : 1px solid black;
+padding: 30px;
+font-family: 'Lato', sans-serif;
+
+}
+	
+h1{
+	font-weight: 900;
+	background-color:aquamarine;
+	display: inline;
+
+}
+table{
+	width: 100%;
+	column-gap: 40px;
+}
+img{
+	border-radius: 50%;
+	padding: 5px;
+
+}
+td{
+	vertical-align:left; 
+   
+
+}
+.c1{
+	margin-bottom: 100px;
+	margin-right: 50px;
+	margin-left: 0px;
+}
